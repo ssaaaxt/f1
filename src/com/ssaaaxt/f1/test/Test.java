@@ -13,6 +13,6 @@ public class ColorTest {
 	
 	@Test
 	public void addFun() {
-		
+		System.out.println(str+"123");
 	}
 }
