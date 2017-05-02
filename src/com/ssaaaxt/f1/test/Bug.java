@@ -8,7 +8,7 @@ public class ColorTest {
 	
 	@Test
 	public void addStr() {
-		System.out.println(str+"Bug分支");
+		System.out.println(str+"Bug分支"+"456");
 	}
 	
 	
