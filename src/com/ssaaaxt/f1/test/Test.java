@@ -14,5 +14,6 @@ public class ColorTest {
 	@Test
 	public void addFun() {
 		System.out.println(str+"456");
+		System.out.println(str+"123");
 	}
 }
