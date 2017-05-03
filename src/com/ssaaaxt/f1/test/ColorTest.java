@@ -8,7 +8,7 @@ public class ColorTest {
 	
 	@Test
 	public void addStr() {
-		System.out.println(str+"123");
+		System.out.println(str+"123"+"321");
 	}
 	
 	@Test
